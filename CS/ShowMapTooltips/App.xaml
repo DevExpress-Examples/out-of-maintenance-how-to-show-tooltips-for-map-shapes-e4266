@@ -1,0 +1,7 @@
+﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             x:Class="ShowMapTooltips.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <Application.Resources>
+    <my:String x:Key="DevExpress.Xpf.License">42-01-79-3A-9F-21-F7-F0-DE-58-C9-8E-29-08-AE-F3-8A-1A-90-C2</my:String>
+  </Application.Resources>
+</Application>
