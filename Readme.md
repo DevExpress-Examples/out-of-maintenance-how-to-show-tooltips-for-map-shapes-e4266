@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/MapShapeTooltips/MainPage.xaml) (VB: [MainPage.xaml](./VB/MapShapeTooltips/MainPage.xaml))
+<!-- default file list end -->
 # How to show tooltips for map shapes 
 
 
