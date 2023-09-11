@@ -1,7 +1,0 @@
-﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
-             x:Class="MapShapeTooltips.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
-    <Application.Resources>
-    <my:String x:Key="DevExpress.Xpf.License">33-66-92-69-96-2B-34-88-C8-AF-4E-E3-40-DC-50-6D-E4-B2-18-0D</my:String>
-  </Application.Resources>
-</Application>
